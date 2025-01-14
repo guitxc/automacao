@@ -1,4 +1,4 @@
-Automação de es
+Automação de estoque
 
 A ideia do projeto
 
