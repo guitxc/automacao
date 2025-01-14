@@ -1,6 +1,7 @@
 Automação de estoque
 
 Essa é uma automação que fiz com python em primeiro plano
+
 Utiliza as blibliotecas pyautogui, pandas e time
 
 A ideia do projeto
